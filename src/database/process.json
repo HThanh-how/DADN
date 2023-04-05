@@ -1,0 +1,20 @@
+[
+    {
+      "id": "1",
+      "name": "Xe số 4",
+      "location": "P710 Lý Thường Kiệt",
+      "status": "10%"
+    },
+    {
+      "id": "2",
+      "name": "Xe số 7",
+      "location": "2412 tô Hiến Thành",
+      "status": "50%"
+    },
+    {
+      "id": "3",
+      "name": "Xe số 5",
+      "location": "496 Phú Thọ",
+      "status": "Done"
+    }
+  ]
